@@ -1,0 +1,10 @@
+Agenda- Text To SQL LLM Application
+
+Prompt--->LLM-->Gemini Pro--->Query-->SQL Database-->Response 
+
+Implementation
+
+1. SQLlite---Inssert some records--Python Programming
+2. LLM Application-->Gemini Pro--->SQL Database
+
+https://aistudio.google.com/app/apikey
